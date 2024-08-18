@@ -1,0 +1,12 @@
+@import url("-leaflet/dist/leaflet.css") 
+
+.leaflet-container{
+  height: 100%;
+  width: 10vh;
+}
+.App{
+  height: auto !important;
+}
+
+
+
